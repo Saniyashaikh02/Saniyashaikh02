@@ -1,41 +1,65 @@
-![logo](https://github.com/Saniyashaikh02/SaniyaShaikh04/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
-<h1 align="center">Hi 👋, I'm Saniya Shaikh</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h1 align="center">✨ Saniya Shaikh ✨</h1>
 
-<img align="right" alt="Coding" width="400"
-src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif"/>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saniyashaikh02&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-### 🌱 About Me
-- 🌱 I’m currently learning **Frontend Frameworks & Courses**
-- 👨‍💻 All of my projects are available at  
-  👉 **https://saniyak02.netlify.app/**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 📫 Reach me at **shaikhsaniya0714@gmail.com**
-
-### 🤝 Connect with me
-<p align="left">
-  <a href="https://twitter.com/saniya_sha02" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35"/>
-  </a>
-  <a href="https://www.linkedin.com/in/saniyatech1108" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
-  </a>
-  <a href="https://instagram.com/saniya_sha02" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
-  </a>
+<p align="center">
+  <b>Frontend Developer</b> <br/>
+  <sub>Building beautiful & responsive web interfaces</sub>
 </p>
 
-### 🛠 Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<p align="center">
+  <a href="https://saniyak02.netlify.app/">🌐 Portfolio</a> &nbsp;•&nbsp;
+  <a href="mailto:shaikhsaniya0714@gmail.com">📩 Email</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/saniyatech1108">💼 LinkedIn</a>
 </p>
 
+<br/>
+
+<p align="center">
+  <em>
+    I love turning ideas into clean, user-friendly and visually appealing web experiences.
+  </em>
+</p>
+
+---
+
+## 💁‍♀️ About Me
+
+- 🎨 Frontend Developer from **India**
+- 🌱 Learning modern frontend frameworks & best practices
+- 🧠 Focused on **UI, responsiveness & clean code**
+- 💬 Ask me about **HTML, CSS, JavaScript & React**
+
+---
+
+## ⚡ Tech Stack I Work With
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44"/>
+</p>
+
+---
+
+## 📊 GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saniyashaikh02&show_icons=true&theme=radical" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyashaikh02&layout=compact&theme=radical" height="155"/>
+</p>
+
+---
+
+## 🌸 My Frontend Mindset
+
+> ✨ *Good UI catches attention.*  
+> ✨ *Great UX keeps users.*  
+> ✨ *Clean code sustains products.*
+
+<p align="center">
+  <b>Let’s build something beautiful together 🤍</b>
+</p>
