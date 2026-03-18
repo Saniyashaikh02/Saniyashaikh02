@@ -1,65 +1,87 @@
-<h1 align="center">✨ Saniya Shaikh ✨</h1>
+<h1 align="center">Hi 👋, I'm Saniya Shaikh</h1>
+<h3 align="center">🚀 Software Engineer | ☁️ Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
-  <b>Frontend Developer</b> <br/>
-  <sub>Building beautiful & responsive web interfaces</sub>
-</p>
-
-<p align="center">
-  <a href="https://saniyak02.netlify.app/">🌐 Portfolio</a> &nbsp;•&nbsp;
-  <a href="mailto:shaikhsaniya0714@gmail.com">📩 Email</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/saniyatech1108">💼 LinkedIn</a>
-</p>
-
-<br/>
-
-<p align="center">
-  <em>
-    I love turning ideas into clean, user-friendly and visually appealing web experiences.
-  </em>
+  <img src="https://komarev.com/ghpvc/?username=Saniyashaikh02&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 💁‍♀️ About Me
+## 👩‍💻 About Me
 
-- 🎨 Frontend Developer from **India**
-- 🌱 Learning modern frontend frameworks & best practices
-- 🧠 Focused on **UI, responsiveness & clean code**
-- 💬 Ask me about **HTML, CSS, JavaScript & React**
+* 💻 Passionate about backend development & scalable systems
+* ☁️ Focused on Cloud & DevOps Engineering
+* 🐳 Hands-on experience with Docker & containerized applications
+* ⚙️ Building CI/CD pipelines using GitHub Actions
+* 🎯 Aspiring Cloud/DevOps Engineer
 
 ---
 
-## ⚡ Tech Stack I Work With
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44"/>
+
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,docker,git,github,linux,aws" />
+
 </p>
 
 ---
 
-## 📊 GitHub Snapshot
+## 📌 Featured Project
+
+### 🔹 Flask + MySQL 2-Tier Application
+
+* 🐳 Containerized using Docker
+* 🔗 Custom Docker network (two-tier architecture)
+* ☁️ Deployed on AWS EC2
+* ⚙️ CI/CD pipeline using GitHub Actions
+
+👉 <a href="https://github.com/Saniyashaikh02/flask-app-ecs">View Project</a>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saniyashaikh02&show_icons=true&theme=radical" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyashaikh02&layout=compact&theme=radical" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saniyashaikh02&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saniyashaikh02&theme=tokyonight" alt="streak" />
 </p>
 
 ---
 
-## 🌸 My Frontend Mindset
-
-> ✨ *Good UI catches attention.*  
-> ✨ *Great UX keeps users.*  
-> ✨ *Clean code sustains products.*
+## 📈 Activity Graph
 
 <p align="center">
-  <b>Let’s build something beautiful together 🤍</b>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saniyashaikh02&theme=tokyo-night" />
 </p>
+
+---
+
+## ⚙️ DevOps Skills
+
+* Docker containerization & networking
+* Writing efficient Dockerfiles
+* CI/CD pipelines (GitHub Actions)
+* Linux (Ubuntu) system operations
+* AWS EC2 deployment
+
+---
+
+## 📚 Currently Learning
+
+* Kubernetes ☸️
+* Terraform 🌍
+* AWS ECS & EKS 🚀
+
+---
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+## ⚡ Fun Fact
+
+💡 I love building real-world cloud projects and automating everything I can 🚀
