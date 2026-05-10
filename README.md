@@ -1,87 +1,135 @@
-<h1 align="center">Hi 👋, I'm Saniya Shaikh</h1>
-<h3 align="center">🚀 Software Engineer | ☁️ Cloud & DevOps Enthusiast</h3>
+# Hi there 👋, I'm Saniya Shaikh
+
+<h3 align="center">🚀 Full Stack Developer | Student | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saniyashaikh02&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+Passionate Full Stack Developer focused on building scalable web applications, modern user experiences, and backend systems.
+Currently exploring cloud technologies, DevOps, and scalable architectures.
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 💫 About Me
 
-* 💻 Passionate about backend development & scalable systems
-* ☁️ Focused on Cloud & DevOps Engineering
-* 🐳 Hands-on experience with Docker & containerized applications
-* ⚙️ Building CI/CD pipelines using GitHub Actions
-* 🎯 Aspiring Cloud/DevOps Engineer
+- 🎓 Full Stack Development Student
+- 🌱 Currently learning MERN Stack, AWS & DevOps
+- 💻 Passionate about Web Development & Open Source
+- ⚡ Building real-world scalable applications
+- 🚀 Exploring Cloud, Docker & System Design
+- 📚 Always learning new technologies
 
 ---
 
-## 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-<p align="center">
+## 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,docker,git,github,linux,aws" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
 </p>
 
 ---
 
-## 📌 Featured Project
+## 🎨 Frontend Development
 
-### 🔹 Flask + MySQL 2-Tier Application
-
-* 🐳 Containerized using Docker
-* 🔗 Custom Docker network (two-tier architecture)
-* ☁️ Deployed on AWS EC2
-* ⚙️ CI/CD pipeline using GitHub Actions
-
-👉 <a href="https://github.com/Saniyashaikh02/flask-app-ecs">View Project</a>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saniyashaikh02&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saniyashaikh02&theme=tokyonight" alt="streak" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## ⚙️ Backend Development
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saniyashaikh02&theme=tokyo-night" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 ---
 
-## ⚙️ DevOps Skills
+## 🗄️ Database
 
-* Docker containerization & networking
-* Writing efficient Dockerfiles
-* CI/CD pipelines (GitHub Actions)
-* Linux (Ubuntu) system operations
-* AWS EC2 deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+## ☁️ Cloud & DevOps
 
-* Kubernetes ☸️
-* Terraform 🌍
-* AWS ECS & EKS 🚀
-
----
-
-## 📫 Connect with Me
-
-* 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase,vercel,netlify" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## 🧰 Tools & Platforms
 
-💡 I love building real-world cloud projects and automating everything I can 🚀
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/your-profile" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+<a href="https://instagram.com/your-profile" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+- Advanced MERN Stack
+- AWS Cloud Services
+- Docker & Kubernetes
+- System Design
+- CI/CD Pipelines
+- Scalable Backend Architecture
+
+---
+
+# ✨ Quote
+
+> “Code. Learn. Build. Repeat.”
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/YOUR_USERNAME">Your Name</a>
+</p>
